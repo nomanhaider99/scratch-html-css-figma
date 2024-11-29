@@ -32,7 +32,7 @@
     border: 1px solid #181E4B;
 }
 /* For Larger Screens */
-@media (min-width: 320px) {
+@media (max-width: 1400px) {
     .logo {
         width: 100px;
     }
@@ -225,7 +225,7 @@
     }
 }
   /* For Mobile Screens; */
-@media (max-width: 320px) {
+@media (max-width: 430px) {
     .logo {
         width: 70px;
     }
